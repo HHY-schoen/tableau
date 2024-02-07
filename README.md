@@ -1,3 +1,2 @@
-## tableau
-refer
-- https://www.youtube.com/watch?v=p4pqSTANWRo
+## tableau projects
+-  Netflix dashboard : https://public.tableau.com/app/profile/s.hsiung/viz/Neflix_17073171980950/Netflix
